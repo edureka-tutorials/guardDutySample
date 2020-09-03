@@ -1,5 +1,5 @@
 {
-  "region": "us-east-1",
+  "region": "us-east-2",
   "detail": {
     "type": "UnauthorizedAccess:EC2/SSHBruteForce",
     "resource": {
